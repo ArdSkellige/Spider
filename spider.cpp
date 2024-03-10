@@ -107,10 +107,6 @@ Spider::Spider(QWidget *parent)
 
     // ⦁	Задаем max размер окна
     this->setMaximumSize(pix.size());
-
-
-
-
 }
 
 Spider::~Spider()
